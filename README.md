@@ -1,6 +1,8 @@
 # ReadMe for the Quantifying Reproducibility of Machine Learning Research Papers Using Multi-Criteria Decision Making Methods Master's Thesis Computation
 
-## Datasets:
+## Python Library Versions:
+
+## Dataset Files:
 
 ### 1. Dataset 1.csv
 The first dataset used in the Master thesis from D. Olszewski, et al, used for the creation of reproducibility criteria for machine learning research papers. This file already contains data after part of the filtering from the 2.1.2 section was performed in Excel. The "Reproduced" column was filtered to only "0" and "1" values.
@@ -14,5 +16,11 @@ The new dataset created from sampling a subset of from D. Olszewski, et al., con
 ### 4. 10 Research Papers Dataset 1.csv
 10 research paper dataset randomly sampled from the new annotated dataset, used in the example analysis of the quantitative reproducibility measure for machine learning research papers.
 
+## Code Files:
 
+### 1. Code for Dataset 1 Analysis.ipynb
+
+### 1. Code for Dataset 2 Analysis.ipynb
+
+### 1. Code for Evaluation and Example Analyses.ipynb
 
