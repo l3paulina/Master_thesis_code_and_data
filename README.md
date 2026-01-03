@@ -3,11 +3,16 @@
 ## Datasets:
 
 ### 1. Dataset 1.csv
+The first dataset used in the Master thesis from D. Olszewski, et al, used for the creation of reproducibility criteria for machine learning research papers. This file already contains data after part of the filtering from the 2.1.2 section was performed in Excel. The "Reproduced" column was filtered to only "0" and "1" values.
 
 ### 2. Dataset 2.csv
+The second dataset used in the Master thesis from E. Raff, used for the creation of reproducibility criteria for machine learning research papers. This file already contains data after most of the data transformations from the 2.1.2 section were performed in Excel. The values were replaced respectively to the instructions given in that section.
 
-### 3. New Annotated Dataset.csv
+### 3. New Annotated Dataset.xlsx
+The new dataset created from sampling a subset of from D. Olszewski, et al., containing 139 research papers, described in section 2.2.2, used in the evaluation of the created quantitative reproducibility measure for machine learning research papers. The first page in the Excel file is the author annotation of the research paper's reproducibility scores, the second page contains "ChatGPT" annotations of the research paper's reproducibility scores, the third page contains the final reproducibility score annotation for the research papers.
 
 ### 4. 10 Research Papers Dataset 1.csv
+10 research paper dataset randomly sampled from the new annotated dataset, used in the example analysis of the quantitative reproducibility measure for machine learning research papers.
+
 
 
