@@ -1,14 +1,14 @@
 # ReadMe for the Quantifying Reproducibility of Machine Learning Research Papers Using Multi-Criteria Decision Making Methods Master's Thesis Computation
 
-## Python Library Versions:
-
-- pandas: 2.2.2
-- numpy: 1.26.4
-- matplotlib: 3.9.2
-- seaborn: 0.13.2
-- scipy: 1.13.1
-- statsmodels: 0.14.2
-- scikit-learn: 1.5.1
+## Python Version and Library Versions:
+- python 3.13.3,
+- pandas: 2.2.2,
+- numpy: 1.26.4,
+- matplotlib: 3.9.2,
+- seaborn: 0.13.2,
+- scipy: 1.13.1,
+- statsmodels: 0.14.2,
+- scikit-learn: 1.5.1,
 - xgboost: 3.1.0
 
 ## Dataset Files:
