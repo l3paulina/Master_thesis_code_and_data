@@ -28,11 +28,11 @@ The new dataset created from sampling a subset of from D. Olszewski, et al., con
 ## Code Files:
 
 ### 1. Code for Dataset 1 Analysis.ipynb
-The code for the data analysis: exploratory data analysis, hypothesis testing, logistic regression and classification tasks with the dataset 1, from D. Olszewski, et al. Additionally, the random sampling is shown to sample a subset of the dataset 1, containing 139 research papers, described in section 2.2.2, used in the evaluation and example analyses of the created quantitative reproducibility measure with WSM for machine learning research papers.
+The code for the data analysis: exploratory data analysis, hypothesis testing, logistic regression and classification tasks with the dataset 1, from D. Olszewski, et al. Additionally, the random sampling is shown to sample a subset of the dataset 1, containing 139 research papers, described in section 2.2.2, used in the evaluation and example analyses of the created quantitative reproducibility measure with WSM for machine learning research papers. The code is provided with the outputs.
 
 ### 1. Code for Dataset 2 Analysis.ipynb
-The code for the data analysis: exploratory data analysis, hypothesis testing, logistic regression and classification tasks with the dataset 2, from E. Raff.
+The code for the data analysis: exploratory data analysis, hypothesis testing, logistic regression and classification tasks with the dataset 2, from E. Raff. The code is provided with the outputs.
 
 ### 1. Code for Evaluation and Example Analyses.ipynb
-The code for the evaluation and example analyses of the created quantitative reproducibility measure with WSM for machine learning research papers.
+The code for the evaluation and example analyses of the created quantitative reproducibility measure with WSM for machine learning research papers. The code is provided with the outputs.
 
